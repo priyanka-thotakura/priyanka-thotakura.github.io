@@ -1,0 +1,144 @@
+body{
+	background-color: Azure;
+
+}
+
+h1{
+	text-align: center;
+	font-size: 70px;
+	font-family: Verdana;
+	color: #625D5D ;
+}
+
+td{
+	text-align: left1;
+	font-family: Verdana;
+	font-size: 30px;
+	color:#98AFC7;
+}
+
+a:visited{
+	color:CornflowerBlue;
+}
+img{
+	width:300px;
+	height:450px;
+}
+
+table{
+	width : 70%;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+#home{
+	font-size:40px;
+	text-align: center;
+}
+
+#askme{
+	color:Pink;
+	font-size:40px;
+	text-align: center;
+}
+
+#moviehomepage{
+	background-color: MintCream;
+}
+
+#clueless{
+	color: Pink;
+}
+
+#cluelessHeader{
+	color:HotPink;
+	font-size: 60px;
+	font-weight: Bold;
+}
+
+#it{
+	color:LightGray;
+}
+
+#itHeader{
+	color:SlateGray;
+	font-size:60px;
+	font-weight: Bold;
+}
+
+#superbadHeader{
+	color:Red;
+	font-size:60px;
+	font-weight: Bold;
+}
+
+#superbad{
+	color: Silver;
+
+}
+
+
+#mammaMiaHeader{
+	color:CornflowerBlue;
+	font-size:60px;
+	font-weight: Bold;
+
+}
+
+#mammamia{
+	color:LightSkyBlue;
+}
+
+
+#showhomepage{
+	background-color: GhostWhite
+}
+
+
+
+
+#societyHeader{
+	color:Crimson;
+	font-size:60px;
+	font-weight: Bold;
+}
+
+#s{
+	color:Black;
+}
+
+#gossipgirlHeader{
+	color:LightGrey;
+	font-size:60px;
+	font-weight: Bold;
+}
+
+#gg{
+	color:Silver;
+}
+
+#bigtimerushHeader{
+	color:DarkRed;
+	font-size:60px;
+	font-weight: Bold;
+}
+
+#btr{
+	color:LightSteelBlue;
+}
+
+#dynastyHeader{
+	color:DarkSlateGrey;
+	font-size:60px;
+	font-weight: Bold;
+}
+#d{
+	color: DimGrey
+}
+
+#form{
+	text-align:center;
+	color:Black;
+	font-weight: Bold;
+	font-family: Verdana;
+}
