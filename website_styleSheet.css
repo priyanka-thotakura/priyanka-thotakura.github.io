@@ -23,6 +23,7 @@ a:visited{
 img{
 	width:300px;
 	height:450px;
+	padding-left: 50px;
 }
 
 table{
@@ -48,32 +49,38 @@ table{
 
 #clueless{
 	color: Pink;
+	padding-left: 50px;
 }
 
 #cluelessHeader{
 	color:HotPink;
 	font-size: 60px;
 	font-weight: Bold;
+	padding-left: 50px;
 }
 
 #it{
 	color:LightGray;
+	padding-left: 50px;
 }
 
 #itHeader{
 	color:SlateGray;
 	font-size:60px;
 	font-weight: Bold;
+	padding-left: 50px;
 }
 
 #superbadHeader{
 	color:Red;
 	font-size:60px;
 	font-weight: Bold;
+	padding-left: 50px;
 }
 
 #superbad{
 	color: Silver;
+	padding-left: 50px;
 
 }
 
@@ -82,11 +89,13 @@ table{
 	color:CornflowerBlue;
 	font-size:60px;
 	font-weight: Bold;
+	padding-left: 50px;
 
 }
 
 #mammamia{
 	color:LightSkyBlue;
+	padding-left: 50px;
 }
 
 
@@ -143,6 +152,3 @@ table{
 	font-family: Verdana;
 }
 
-iframe {
-	align-items: center;
-}
